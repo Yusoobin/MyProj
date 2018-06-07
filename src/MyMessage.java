@@ -10,4 +10,7 @@ public class MyMessage {
 	public void print() {
 		System.out.println(message);
 	}
+	public setMyMessage(String message) {
+		this.message = message;
+	}
 }
